@@ -1,0 +1,7 @@
+.wrapperSuperior {
+  width: 100%;
+  height: 33%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
